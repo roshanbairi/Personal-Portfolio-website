@@ -15,11 +15,11 @@ import AboutBox from './AboutBox';
 
             <div className="about__container grid">
                 <img src={Image} alt="" className='about__img' />
-
+   
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hello! I'm Roshan, and I’m a frontend developer skilled in building responsive 
+                            Hello! I'm Roshan, and Iam a frontend developer skilled in building responsive 
                             and dynamic web interfaces using React.js, JavaScript, HTML, and CSS. I have hands-on knowledge of AWS services,
                             which helps me understand how to deploy and manage modern web applications in the cloud. 
                             I'm passionate about clean code, performance optimization, and delivering great user experiences.

@@ -1,5 +1,5 @@
 import React from 'react'
-import { RiFireLine, RiCupLine, RiGroupLine, RiTrophyLine } from 'react-icons/ri';
+import {RiCupLine, RiGroupLine, RiTrophyLine } from 'react-icons/ri';
 
 const AboutBox = () => {
     return (

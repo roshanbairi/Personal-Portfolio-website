@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="" target="_blank">Roshan bairi</a>.</h4>
 
 <br>
 
