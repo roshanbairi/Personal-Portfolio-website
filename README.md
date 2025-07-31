@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="" target="_blank">Roshan bairi</a>.</h4>
+<h4 align ="center">A simple personal website about <a href="" target="_blank">Roshan bairi</a>.</h4>
 
 <br>
 
@@ -20,7 +20,7 @@ This is portfolio is reference by Greg sithole
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone -react-portfolio
 
 # Go into the repository
 $ cd -react-portfolio
