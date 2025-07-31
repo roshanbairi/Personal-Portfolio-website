@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <a href="">
   <img src="./src/assets/light-logo.svg" alt="Roshan bairi" width="200"></a>
   <br>
   Roshan Bairi Personal Portfolio
@@ -16,13 +16,14 @@
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/). From your command line:
-
+This is portfolio is reference by Greg sithole
 ```bash
+
 # Clone this repository
 $ git clone https://github.com/GregSithole/gregsithole-react-portfolio
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd -react-portfolio
 
 # Install dependencies
 $ yarn install
