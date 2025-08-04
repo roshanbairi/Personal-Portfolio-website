@@ -4,9 +4,7 @@ import Image from '../../assets/avatar-2.svg';
 import AboutBox from './AboutBox';
 
  const About = () => {
-//     const downloadResume = async () => {
-//         window.open(Resume, '_blank');
-//     }
+     
 
 
     return (
@@ -30,10 +28,10 @@ import AboutBox from './AboutBox';
                             <li>Node.js</li>
                             
                         </ul>
-                        {/* <button className="btn" onClick={downloadResume}>Donwload CV</button> */}
+                        
                     </div>
 
-                    {/* <div className="about__skills grid">
+                    { <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">Development</h3>
@@ -72,7 +70,7 @@ import AboutBox from './AboutBox';
                                 </span>
                             </div>
                         </div>
-                    </div> */}
+                    </div> }
                 </div>
             </div>
 
