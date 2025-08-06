@@ -1,6 +1,6 @@
 {
-  "name": "roshan-react-portfolio",
-  "homepage": "https://roshanbairi.github.io/Personal-Portfolio-website",
+  "name": "react",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

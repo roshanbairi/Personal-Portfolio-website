@@ -3,8 +3,14 @@ import './About.css';
 import Image from '../../assets/avatar-2.svg';
 import AboutBox from './AboutBox';
 
+
+
+
+
  const About = () => {
-     
+      const downloadResume = () => {
+        window.open('/Resume.pdf','_blank');
+      };
 
 
     return (
@@ -17,7 +23,7 @@ import AboutBox from './AboutBox';
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hello! I'm Roshan, and Iam a frontend developer skilled in building responsive 
+                            Hello! I'm Roshan, and Iam a frontend  Web developer skilled in building responsive 
                             and dynamic web interfaces using React.js, JavaScript, HTML, and CSS. I have hands-on knowledge of AWS services,
                             which helps me understand how to deploy and manage modern web applications in the cloud. 
                             I'm passionate about clean code, performance optimization, and delivering great user experiences.
@@ -28,6 +34,7 @@ import AboutBox from './AboutBox';
                             <li>Node.js</li>
                             
                         </ul>
+                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
                         
                     </div>
 
@@ -68,6 +75,7 @@ import AboutBox from './AboutBox';
                                 <span className="skills__percentage photography">
 
                                 </span>
+                                
                             </div>
                         </div>
                     </div> }
